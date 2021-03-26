@@ -11,6 +11,6 @@ Actualmente nos encontramos realizando un análisis del estado de situación de 
 
 Si perteneces a una empresa del sector de la automatización, la industria agroalimentaria, la industria logística, la industria siderometalúrgica, la industria del frío o de otro sector relacionado y estás interesado/a en colaborar con nosotros. 
 
-CONTACTA – correo proyectosfundecor@uco.es 
+CONTACTA – correo proyectosfundecor@uco.es
 
 
