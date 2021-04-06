@@ -1,23 +1,25 @@
 # Site settings
-baseURL = "https://example.com"
+baseURL = "https://www.fundecor.es/estudio-industria40/"
 languageCode = "en-US"
-title = "Estudio Industria 4.0"
+title = "ANÁLISIS DEL ESTADO DE SITUACIÓN DE LAS EMPRESAS DE AUTOMATIZACIÓN INDUSTRIAL EN LA PROVINCIA DE CÓRDOBA"
 theme = "hugo-split-theme-master"
 disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
+relativeURLs = true
+uglyURLs = true
+
 
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = ""
 
-# Copyright
-copyright = "&copy;2021 Your Name"
+
 
 [params]
 
   # Metadata for search engines and social sharing
-  author = "Jenny Jones"
-  description = "Split is a centrally-divided layout for a professional online presence with a big image or video left with alongside content."
+  author = "Fundecor"
+  description = "Industria 4.0"
   shareImage = "images/social.jpg"
-  twitterHandle = "onepagelove"
+ 
 
   # Favicon
   favicon = "favicon.ico"
@@ -35,61 +37,8 @@ copyright = "&copy;2021 Your Name"
     [params.visual.video]
       enable = false
       mute = true
-      file = "videos/background.mp4"
+      file = ""
       # youtubeId = "dk9uNWPP7EA"
-
-  # Links
-  #
-  # Links List #1
-  [[params.links]]
-    [params.links.list1]
-      heading = "Connect"
-
-      [[params.links.list1.link]]
-        text = "Blog"
-        url = "#"
-
-      [[params.links.list1.link]]
-        text = "Email"
-        url = "#"
-
-      [[params.links.list1.link]]
-        text = "Newsletter"
-        url = "#"
-
-  # Links List #2
-  [[params.links]]
-    [params.links.list2]
-      heading = "Social"
-
-      [[params.links.list2.link]]
-        text = "Twitter"
-        url = "#"
-
-      [[params.links.list2.link]]
-        text = "Instagram"
-        url = "#"
-
-      [[params.links.list2.link]]
-        text = "Dribbble"
-        url = "#"
-
-  # Links List #3
-  [[params.links]]
-    [params.links.list3]
-      heading = "Network"
-
-      [[params.links.list3.link]]
-        text = "Link One"
-        url = "#"
-
-      [[params.links.list3.link]]
-        text = "Link Two"
-        url = "#"
-
-      [[params.links.list3.link]]
-        text = "Link Three"
-        url = "#"
 
   # The original template is released under the Creative Commons Attribution 3.0 License.
   # Please keep the original attribution link when using for your own project.

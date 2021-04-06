@@ -1,8 +1,8 @@
 # Site settings
 baseURL = "https://example.com"
 languageCode = "en-US"
-title = "Estudio Industria 4.0"
-theme = "hugo-split-theme-master"
+title = "Split - HTML Template Demo"
+theme = "hugo-split-theme"
 disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
 
 # Enter your tracking code to enable Google Analytics
@@ -28,7 +28,7 @@ copyright = "&copy;2021 Your Name"
     # Image
     [params.visual.image]
       enable = true
-      file = "images/background1.jpg"
+      file = "images/background.jpg"
       position = "center center"
 
     # Video
